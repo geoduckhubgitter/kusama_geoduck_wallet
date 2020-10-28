@@ -1,2 +1,2 @@
-# kusama_geoduck_wallet
+# kusama_geoduc_wallet
 powershell cycle chain
